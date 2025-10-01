@@ -79,6 +79,8 @@ Open your browser at `http://localhost:3000` to see the dashboard.
 - Display statistics over time (counts, dwell time, per-class charts).
 - Support video file or RTSP stream input on the server side.
 - Implement trails or heatmaps for tracked objects.
+- Implement other detection models. (Faster-RCNN, DETR)
+- Implement Face Recognition Algorithm.
 
 ## References
 - [YOLOv8 / Ultralytics Docs](https://docs.ultralytics.com/)
@@ -86,7 +88,4 @@ Open your browser at `http://localhost:3000` to see the dashboard.
 - [DeepSORT Repository](https://github.com/nwojke/deep_sort)
 
 ---
-
-**Author:** Nathan Darjana  
-**Date:** 2025-10-01
 
